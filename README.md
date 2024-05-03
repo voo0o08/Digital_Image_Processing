@@ -19,4 +19,5 @@
 - Bicubic은 내장함수보다 고화질의 출력을 얻을 수 있었지만, 연산 시간이 다른 구현함수에 비해 오래 걸렸다. 
 
 화질 Bicubic > Bilinear > NN
+
 연산시간 Bicubic > Bilinear > NN
